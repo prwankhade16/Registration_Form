@@ -21,9 +21,7 @@
 			margin: auto;
 			padding: 70px;
 			}	
-
-
-		    /* The animation code */
+		
 @keyframes example {
   0%   {background-color: red;}
   10%  {background-color: yellow;}
@@ -38,7 +36,6 @@
   100% {background-color: cyan;}
 }
 
-/* The element to apply the animation to */
 .animation {
 	width: 39%;
 	margin: auto;
