@@ -1,0 +1,12 @@
+					LIST OF STUDENTS
+sr. no.	FirstName	MiddleName	LastName	Mobile no.	Branch	Age	Gender
+1	Pramod	         Rajesh		Wankhade	7264988289	CSE	20	Male
+2	Akash	         Narayan	Gadhave	        7896584213	CSE	20	Male
+3	Sahil		Rajendra	Sulakhe		9356847212	CSE	19	Male
+4	mayur		Sudhir		Rajurkar	9845321672	CSE	19	Male
+5	Shrikant			Daund		9845721236	CSE	20	Male
+8	Ankush				Ingle		8647512369	CSE	20	Male
+9										0	
+10	Akash		Rajesh		Wankhade	7499535979	CSE	20	Male
+11	Abhishek			Hadoltikar	8246751539	CSE	19	Male
+12	kunal				Zale		7982134658	CSE	19	Male
